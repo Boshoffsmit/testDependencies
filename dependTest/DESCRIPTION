@@ -8,6 +8,6 @@ Maintainer: Christiaan Pauw <christiaan.pauw@nova.org.za>
 Description: This function is supplied with a dataframe and projects the data in terms 
              of the specified variable.
 License: Copyright (c) 2016 Nova Institute (Reg# 1994/002614/08)
-Imports: Hmisc, reshape2, openslxs
+Imports: Hmisc, reshape2, openxlsx
 RoxygenNote: 5.0.1
 Suggests: testthat
